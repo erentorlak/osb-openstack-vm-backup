@@ -1,0 +1,10 @@
+# Faz 0 çıktıları gerçek ortam verisi içerir (IP, proje adı, UUID) — asla commit etmeyin
+faz0-out/
+**/faz0-out/
+*.keyring
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,4 @@
+# Betikler Linux host'larda çalışır; Windows checkout'unda da LF kalsın (CRLF bash'i bozar)
+*.sh text eol=lf
+*.py text eol=lf
+*.md text eol=lf
